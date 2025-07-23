@@ -27,7 +27,6 @@ Welcome to **VisualVibe**, an AI-powered image generation web application built 
 | Image Hosting  | Cloudinary                           |
 | AI Integration | OpenAI API                           |
 | Payments       | Stripe                               |
-| Deployment     | Vercel                               |
 
 ---
 
